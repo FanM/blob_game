@@ -1,1 +1,3 @@
-# blob_game
+# blob game
+
+The manuals of blob game.
