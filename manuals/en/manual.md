@@ -63,7 +63,7 @@ You can manage your roster on the court by setting the following values:
 
 - _Team Three-point Shots Allocation_ : the percentage of team three-point shots allocation over all shots. Teams with outstanding three-point shooters can increase this threshold.
 
-  **Note** : The allocation of shots taken by a single player (two points + three points) cannot exceed 25% of the team's total shots. In addition, the proportion of players' shots must be less than 1/3 of the proportion of their minutes. For example: if given 10% shots, this player must play at least 30% of game time (approximately 15 minutes).
+  **Note** : The allocation of shots taken by a single player (two points + three points) cannot exceed 25% of the team's total shots. In addition, the proportion of players' shots must be less than 1/4 of the proportion of their minutes. For example: if given 10% shots, this player must play at least 40% of game time (approximately 20 minutes), in line with a real game.
 
 When you tweak those values, the page will automatically validate against the above rules. If the validation fails, it will prompt on the page:
 
