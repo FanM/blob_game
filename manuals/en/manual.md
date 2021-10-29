@@ -176,6 +176,8 @@ Attributes are randomly generated in their respective intervals:
 
 Each team selects players in descending order of the ranking in this season. Each team has a 10-minute pick window. Failure to select after the window closes will be deemed as a waiver, and the next team will automatically start selecting. Each team can have up to 16 players, and players cannot be dismissed. The only way to get a player to leave the team is to retire or trade, so you need to choose players cautiously based on the team's position requirements and age structure.
 
+![Pick window](./imgs/draft.png)
+
 ## Trade
 
 Teams can trade player by bartering with other teams at any time during the season.
